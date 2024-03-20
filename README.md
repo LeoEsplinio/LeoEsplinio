@@ -1,4 +1,5 @@
-Olá! Me chamo Leonardo Esplinio. 😎
+Hello Word!
+Me chamo Leonardo Esplinio. 😎
 
 Entusiasta de Tecnologia 🤖
 
