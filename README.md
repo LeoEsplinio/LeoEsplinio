@@ -1,5 +1,6 @@
 🌎 - Hello World! 
-Me chamo Leonardo Esplinio
+
+😎 - Me chamo Leonardo Esplinio
 
 🤖 - Entusiasta de Tecnologia
 
