@@ -1,4 +1,4 @@
-🌎 - Hello World! 🌎
+🌎 - Hello World! 
 
 😎 - Me chamo Leonardo Esplinio
 
