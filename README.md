@@ -1,8 +1,6 @@
-🌎 - Hello World! 
+### 🌎 Hello World! 
 
-😎 - Me chamo Leonardo Esplinio
-
-🤖 - Entusiasta de Tecnologia
+Me chamo Leonardo Esplinio
 
 🎯 Residente em TIC/Software - Desenvolvedor Full Stack
 #SERRATEC
