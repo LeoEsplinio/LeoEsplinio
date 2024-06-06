@@ -22,15 +22,16 @@
 </details>
 
 <!-- Links -->
-<a href="https://www.instagram.com/leoesplinio/">
+<a href="https://www.instagram.com/leoesplinio/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="40" height="40">
 </a>
-<a href="https://www.linkedin.com/in/leoesplinio/">
+<a href="https://www.linkedin.com/in/leoesplinio/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" width="40" height="40">
 </a>
-<a href="mailto:leoexplinio@gmail.com">
+<a href="mailto:leoexplinio@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40">
 </a>
+
 
 ##
 <!-- GithubStats -->
