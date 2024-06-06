@@ -9,7 +9,7 @@
 
   -  Me chamo Leonardo Esplinio.
   
-  -  🎯 Residente em TIC/Software - Desenvolvedor Full Stack - Serratec.
+  -  Residente em TIC/Software - Desenvolvedor Full Stack - Serratec.
 </p>
 
 <!-- Dropdown -->
