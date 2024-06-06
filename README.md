@@ -12,7 +12,7 @@
   -  Residente em TIC/Software - Desenvolvedor Full Stack - Serratec.
 </p>
 
-<!-- Dropdown -->
+<!-- Dropdown 
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
@@ -20,7 +20,7 @@
 
   - ⚡ 
 </details>
-
+-->
 <!-- Links -->
 <a href="https://www.instagram.com/leoesplinio/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="40" height="40">
