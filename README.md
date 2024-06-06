@@ -32,11 +32,12 @@
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="Gmail" width="40" height="40">
 </a>
 
-
 ##
 <!-- GithubStats -->
 ## Tecnologias e ferramentas:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEsplinio&layout=compact&theme=radical)](https://github.com/LeoEsplinio/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEsplinio&theme=tokyonight)
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
