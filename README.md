@@ -36,7 +36,9 @@
 <!-- GithubStats -->
 ## Tecnologias e ferramentas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEsplinio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEsplinio&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=282a36&border_color=ffffff&icon_color=39ff14)
+
+
 
 
 <div style="display: inline_block"><br>  
