@@ -36,7 +36,7 @@
 <!-- GithubStats -->
 ## Tecnologias e ferramentas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?LeoEsplinio=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoEsplinio&layout=compact)
 
 
 <div style="display: inline_block"><br>  
