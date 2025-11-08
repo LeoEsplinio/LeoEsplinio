@@ -5,7 +5,12 @@
 </div>
 
 <!-- Presentation -->
+<p>
 
+  -  Me chamo Leonardo Esplinio.
+  
+  - Estudante em Análise e Desenvolvimento de Sistemas.
+</p>
 <!-- Dropdown 
 <details>
   <summary>👨‍💻 Sobre mim</summary>
