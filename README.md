@@ -5,12 +5,6 @@
 </div>
 
 <!-- Presentation -->
-<p>
-
-  -  Me chamo Leonardo Esplinio.
-  
-  -  Residente em TIC/Software - Desenvolvedor Full Stack - Serratec.
-</p>
 
 <!-- Dropdown 
 <details>
